@@ -1,5 +1,4 @@
-![White and Purple Math Tutor Email Header](https://user-images.githubusercontent.com/618328/118407462-0d29c180-b63e-11eb-9484-f3e39325957a.png)
-
+![Green Hand-drawn Welcome Google Classroom Header](https://user-images.githubusercontent.com/618328/118407648-f6379f00-b63e-11eb-8607-169346cbda21.png)
 
 <!--
 **chrismitchell/chrismitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
